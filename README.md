@@ -30,5 +30,4 @@ Before running the dashboard, install the required Python libraries:
 ```bash
 pip install dash plotly pandas openpyxl
 
-###Output
-![Dashboard Preview](newplot.png)
+
